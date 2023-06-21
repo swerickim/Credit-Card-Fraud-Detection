@@ -7,7 +7,7 @@ The main goal of Credit Card Fraud Detection is to effectively distinguish fraud
 3. No missing data in the dataset
 
 # Class Imbalance
-- Generally, our aim is to maximize the recall while limiting the False Positive Rate (FPR). However, it is possible to misclassify a significant number of charges and still maintain a low FPR, thanks to the presence of numerous true negatives.
+- Generally, the aim is to maximize the recall while limiting the False Positive Rate (FPR). However, it is possible to misclassify a significant number of charges and still maintain a low FPR, thanks to the presence of numerous true negatives.
 - This encourages the selection of a comparatively lower threshold, leading to a high recall but exceptionally low precision.
 
 # Catch?
